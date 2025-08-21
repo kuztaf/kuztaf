@@ -6,12 +6,6 @@
 
 ---
 
-## 🚀 Proyectos Destacados
-| Proyecto | Descripción |
-|----------|-------------|
-| [Weather API Django](https://github.com/kuztaf/weather_api) | API para consultar el clima 🌦️ |
-| [ValorizaParkFrontend](https://github.com/kuztaf/ValorizaParkFrontend) | Proyecto Angular de gestión de parqueaderos 🅿️ |
-| [Zoológico Virtual Java](https://github.com/kuztaf/zoologico-java) | Sistema de gestión de zoológico aplicando OOP 🐾 |
 
 ---
 
